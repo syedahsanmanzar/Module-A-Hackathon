@@ -1,0 +1,111 @@
+.font {
+    font-size: 8px;
+}
+
+.image {
+    background-image: url("https://html.themexriver.com/Saasio/assets/img/res/d1.jpg");
+}
+
+.circle {
+    width: 100PX;
+    height: 100PX;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cut {
+    position: relative;
+    top: -100PX;
+}
+
+.even {
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+.circle1 {
+    /* width: 100PX;
+    height: 100PX;
+    border-radius: 50px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle2 {
+    width: 50PX;
+    height: 50PX;
+    color: white;
+    border-radius: 50px;
+    background-color: rgb(22, 22, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.borde {
+    border-bottom: 2px dotted rgb(71, 70, 70);
+}
+
+.bord {
+    border-bottom: 2px solid rgb(71, 70, 70);
+}
+
+.back {
+    background-image: url("https://html.themexriver.com/Saasio/assets/img/res/v-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.opacity {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.yellow {
+    background-color: #c9ab81;
+}
+
+.yello {
+    color: #c9ab81;
+}
+
+.bottom {
+    border-bottom: 1px solid black;
+}
+
+.box {
+    padding: 15px;
+    font-size: 25px;
+    background-color: #3b5999;
+}
+
+.box1 {
+    padding: 15px;
+    font-size: 25px;
+    background-color: #55acee;
+}
+
+.box2 {
+    padding: 15px;
+    font-size: 25px;
+    background-color: #55acee;
+}
+
+.style {
+    font-family: 'Brush Script MT', cursive;
+}
+
+.last {
+    color: rgb(134, 133, 133);
+}
+
+.bac {
+    background-color: rgba(0, 0, 0, 0.5);
+}
